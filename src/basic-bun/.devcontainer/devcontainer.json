@@ -10,9 +10,7 @@
       "installZsh": "true",
       "configureZshAsDefaultShell": "true",
       "installOhMyZsh": "true",
-      "username": "vscode",
-      "userUid": "1001",
-      "userGid": "1001",
+      "username": "bun",
       "upgradePackages": "true"
     }
   },
@@ -25,5 +23,6 @@
         "oven.bun-vscode"
       ]
     }
-  }
+  },
+  "remoteUser": "bun"
 }
